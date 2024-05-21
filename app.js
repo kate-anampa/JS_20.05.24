@@ -76,3 +76,13 @@ const foundNumber = numbers.find(function(numers) {
 });
 
 console.log(foundNumber); 
+
+// FILTER
+
+const n = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
+
+const evenNumbers = n.filter(function(n) {
+  return n % 2 === 0;
+});
+
+console.log(evenNumbers); 

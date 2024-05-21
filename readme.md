@@ -67,6 +67,13 @@ Devuelve true o false solo si todos cumplen
 
 ### FIND
 
+
+### FILTER
+
+La función de prueba se llama para cada elemento del array, y los elementos para los cuales la función devuelve true se incluyen en el nuevo array
+
+
+
 Devuelve el primer elemento que cumpla la condicion
 
 
